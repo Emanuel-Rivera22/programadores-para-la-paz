@@ -1,0 +1,7 @@
+Descripcion de que ocurre en cada ruta al acceder.
+
+para la ruta principal de localhost:3000 aparece el mensaje de servidor activo.
+
+para la ruta saludo de localhost:3000/saludo aparece el mensaje de Hola comunidad.
+
+para la ruta de mensaje/juan de localhost:3000/mensaje/juan aparece el mensaje de Hola Juan.
