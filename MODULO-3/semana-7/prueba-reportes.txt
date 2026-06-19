@@ -1,0 +1,2 @@
+al acceder a la ruta de GET reportes en thunder client, se logran visualizar los reportes registrados
+con datos en mensajes, reporte, y id, todo esto en un archivo JSON.
