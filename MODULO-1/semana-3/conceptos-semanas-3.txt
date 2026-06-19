@@ -1,0 +1,11 @@
+Conceptos.
+
+Repositorio: espacio donde se guardan los archivos y cambios de un proyecto, ademas se puede interactuar con colaboradores o
+desarrolladores de cualquier parte del mundo que se encuentren registrados. Brinda ayuda a la hora de acceder a los proyectos
+o archivos guardados desde otro sitio diferente a tu maquina de trabajo.
+
+Commit: registro de cambios realizado en un momento específico, permite ademas darle un nombre guia a la publicacion o actualizacion
+que vas a realizar, esto para guiarte o dar mayor facilidad a la hora de buscar o entender que es lo que esta en el repo y quien y cuando se subio,
+ademas si trabajas con colaboradores sabras que hizo cada uno en una actualizacion al proyecto.
+Push: acción de enviar los cambios desde el computador o Codespaces hacia GitHub, cargar todos los cambios y subirlos directamente
+al respositorio de la direccion suministrada, actualizandolo en segundos sin necesidad de complejidad en terminos de codigos.

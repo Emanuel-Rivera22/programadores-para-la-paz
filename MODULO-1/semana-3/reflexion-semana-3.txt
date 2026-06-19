@@ -1,0 +1,7 @@
+¿Por qué es importante que los proyectos de software mantengan un registro de cambios usando herramientas como Git?
+
+Es de suma importancia ya que mantenemos un orden y accesibilidad casi que 24/7 solo dependemos de tener desde donde acceder
+a ellos y una conexion a internet WIFI, ademas se facilita para proyectos grandes donde trabajan varias personas al mismo tiempo
+en un solo proyecto o varios proyecto, todos tienen acceso al proyecto ya sea privado o publico, solo hay que cambiar unas configuraciones
+para que todos puedan acceder, y es muy sencillo incluso el mismo GitHub te manifiesta una guia de paso a paso como crearlo actualizarlo
+entre otras cosas que permite hacer, y asi con cada commit que se realiza puedes saber identificar que hizo cada desarrollador y cuando lo hizo.
