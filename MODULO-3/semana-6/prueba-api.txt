@@ -1,0 +1,2 @@
+a la hora de realizar la peticion POST con thunder client, se visualiza el status 200 OK size 72 bytes time 20ms
+ademas abajo un archivo JSON donde muestra el estado como datos recibidos, el nombre como Maria, y el mensaje como Hola comunidad.
