@@ -1,0 +1,15 @@
+¿Por qué es importante para un desarrollador saber usar la terminal para navegar y organizar archivos dentro de un proyecto?
+
+Esto es de suma importancia manejar los comandos y ademas adecuar el entorno de trabajo a las necesidades y usos del desarrollador,
+ya que muchas veces es mas sencillo o profesional el estar creando e ingresando a algunas carpetas o codigos desde la terminal, 
+en algunas ocasiones podemos incluso tener mayor accesibilidad al proyecto, incluso a herramientas de mayor ayuda como angente de
+codigo abierto y entre otros, ademas que para mejor funcionalidad y practicas es mejor realizar las cosas desde la terminal ya que afecta 
+al trabajo inmediatamente y puede visualizar mas sencillo las fallas, y ademas te permite ir practicando las bases con mayor frecuencia,
+incluso a veces no es necesario tener varias aplicaciones o herramientas abiertas para estar desarrollando, ejemplo: cuando tenemos un
+proyecto donde debemos implementarle base de datos, conexiones, crear tablas, crear carpetas y archivos, y ademas de esto acceder a ellas
+en algunas ocasiones el dispositivo de trabajo que manejamos se puede saturar de tener tantas apps abiertas lo que disgusta mucho y colabora muy poco
+en el desarrollo y experencia de desarrollador, desde la terminal podemos acceder a dicha base de datos solo activamos el servicio y podemos
+hacer todo desde ahi y visualizar todo sin necesidad de abrir alguna otra aplicacion, incluso sin tener un IDE, podemos desarrollar codigos completos y funcionales
+desde la terminal sin ningun problema, incluso se ve mas profesional en el ambito profesional, solo que es mas robusto y de tener bastante conociemientos,
+con esto no me refiero a que cualquier persona no puede, simplemente que hay que saber que se esta haciendo o irse guiando con alguna herramienta
+para estar completamente seguros e ir practicando hasta que no necesitemos ayuda de herramientas.

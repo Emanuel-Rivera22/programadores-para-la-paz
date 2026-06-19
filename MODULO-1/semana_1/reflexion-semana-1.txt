@@ -1,0 +1,17 @@
+Pregunta 4 — Reflexión de la semana
+
+¿Qué relación encuentras entre el uso responsable de la información en internet, la participación ciudadana y la organización del trabajo técnico con herramientas como Git?
+
+Internet es un entorno multifuncional, en el cual podemos interactuar de muchas maneras posibles, cada acción tiene algo consecuente,
+la manera en que como ciudadanos participamos en el entorno afecta mucho, muchas personas lo hacen de manera comercial, donde muchas veces
+se comparten informaciones innecesarias para el publico, no se maneja la suficiente privacidad, o simplemente nos olvidamos de que hay otras
+personas interactuando con nosotros mediante internet en ese espacio, y que muchas veces filtramos erroneamente informacion de bastante privacidad
+exponiendo nuestro ser, o incluso el de otros en algunas ocasiones. Esto se lleva tambien en el ambito laboral como programador, desarrollador ocasiones
+Ing sistemas, entre otras que se ayudan de entornos virtuales o IA para el desarollo de sus actividades o trabajos, como se hace muchas veces con github,
+en este entorno podemos hacer publicacion de nuestros trabajos o proyecto, pero tambien hay que hacerlo con sabiduria y cabeza, ya que muchas veces
+hay archivos y documentos que no se deben subir a un entorno al que pueden acceder demas personas aparte de los colaboradores, incluso aunque el entorno este privado
+se recomienda que no se suban informaciones cruciales que puedan ser tomadas para fines malos o dañinos ante nosotros, la empresa, o terceros. He aqui donde debemos
+saber que publicar, como hacerlo y donde hacerlo, github como herramienta de trabajo es un entorno muy seguro que incluso a veces por no decir que todas las ocasiones
+antes de subir un repositorio a el entorno el valida los archivos y verifica si no tienes archivos comprometedores de los que se pueda estraer esta informacion,
+ayudando mucho a aquellos que desconocen esta informacion, ademas te ayuda a mantener un orden las publicaciones que haces, ya que cada push te permite darle un commit
+en el que le das un indicador de que se hizo para ayudarte en futuro a ti o incluso terceros que van a acceder al repositorio.
