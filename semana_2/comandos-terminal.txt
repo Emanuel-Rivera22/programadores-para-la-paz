@@ -1,0 +1,17 @@
+los comando ejecutados en esta actividad fueron:
+
+pwd
+ls
+mkdir semana2
+dir
+cd semana2
+touch preguntas-semana2.txt
+touch comandos-terminal.txt
+touch reflexion-semana2.txt
+git status
+git add .
+git commit -m
+git push
+git clone
+cd ..
+cd .
