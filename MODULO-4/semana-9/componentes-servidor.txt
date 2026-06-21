@@ -1,0 +1,18 @@
+Qué función cumple cada uno.
+
+Sistema operativo:
+Es el software base que permite que el hardware funcione y que se ejecuten programas. Administra recursos como memoria,
+procesos y archivos.
+
+Node.js:
+Es un entorno de ejecución que permite usar JavaScript en el servidor. Facilita la creación de aplicaciones backend y APIs.
+
+Aplicación server.js:
+Es el archivo principal donde se define y ejecuta el servidor. Contiene las rutas, la lógica y la configuración de la aplicación.
+
+Puerto:
+Es un punto de comunicación por donde el servidor recibe y envía datos. Permite identificar a qué servicio se está
+conectando el usuario.
+
+Logs:
+Son registros que muestran lo que ocurre en la aplicación. Ayudan a monitorear errores, eventos y el comportamiento del sistema.
