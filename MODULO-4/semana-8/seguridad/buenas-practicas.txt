@@ -1,0 +1,5 @@
+3 prácticas básicas de seguridad digital.
+
+1. Verificar siempre la autenticidad de enlaces y correos antes de hacer clic.
+2. Realizar copias de seguridad periódicas de la información importante.
+3. Utilizar autenticación de dos factores (2FA) en las cuentas que lo permitan.

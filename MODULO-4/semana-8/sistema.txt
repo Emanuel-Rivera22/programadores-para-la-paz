@@ -1,0 +1,13 @@
+Qué información muestra cada comando.
+
+el codigo terminal uname -a que en mi caso es systeminfo por ser windows, muestra las caracteristicas del sistema del ordenador.
+
+el codigo terminal whoami, me muestra el usuario que tengo iniciado sesion en el ordenador.
+
+
+
+Por qué es útil conocer información del sistema cuando se administra un servidor.
+
+es util conocer la informacion del sistema porque muchos casos debemos trabajar en torno a que tanto soporta el dispositivo donde
+vamos a ejecutar el servidor, saber si esta adecuado correctamente para soportar las cargas o los trabajos en el, ademas así
+podemos saber incluso el espacio que maneja nuestra maquina, para asi mismo trabajar de acorde a como tiene que ser.
