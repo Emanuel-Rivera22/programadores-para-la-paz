@@ -1,0 +1,51 @@
+Pregunta 1
+¿Qué es una base de datos en una aplicación?
+
+A. Un programa para editar texto
+
+B. Un sistema que permite almacenar y consultar información estructurada
+
+C. Un servidor web
+
+D. Un navegador
+
+RTA/: B. Un sistema que permite almacenar y consultar información estructurada.
+
+Pregunta 2
+¿Qué significa CRUD en programación?
+
+A. Crear, leer, actualizar y eliminar datos
+
+B. Copiar archivos del sistema
+
+C. Ejecutar comandos de terminal
+
+D. Crear servidores
+
+RTA/: A. Crear, leer, actualizar y eliminar datos.
+
+Pregunta 3
+¿Qué permite la autenticación de usuarios en una aplicación?
+
+A. Que cualquier persona acceda sin control
+
+B. Identificar usuarios y controlar quién puede acceder a ciertas funciones
+
+C. Crear archivos del sistema
+
+D. Instalar software
+
+RTA/: B. Identificar usuarios y controlar quién puede acceder a ciertas funciones.
+
+Pregunta 4
+¿Por qué es importante proteger datos sensibles en una plataforma digital?
+
+A. Para que cualquier persona pueda verlos
+
+B. Para evitar riesgos de privacidad o uso indebido de la información
+
+C. Para mejorar el diseño visual
+
+D. Para instalar aplicaciones
+
+RTA/: B. Para evitar riesgos de privacidad o uso indebido de la información.

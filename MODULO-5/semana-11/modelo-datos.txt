@@ -1,0 +1,39 @@
+Modelo de datos - Semana 11
+Plataforma comunitaria de causas y apoyos
+
+Entidad: Usuario
+
+Campos principales:
+- id
+- nombre_usuario
+- correo
+- password_hash
+- fecha_registro
+
+Propósito:
+Identificar a cada persona que participa en la plataforma y permitir el control de acceso mediante autenticación, sin guardar la contraseña en texto plano.
+
+
+Entidad: Causa
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- fecha
+- usuario_id (quién la creó)
+
+Propósito:
+Guardar las causas comunitarias que serán visibles en la plataforma para que otros ciudadanos puedan conocerlas y apoyarlas.
+
+
+Entidad: Apoyo
+
+Campos principales:
+- id
+- causa_id
+- usuario_id
+- fecha
+
+Propósito:
+Registrar los apoyos que recibe cada causa para hacer seguimiento a la participación y calcular el contador de apoyos.

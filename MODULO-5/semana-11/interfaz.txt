@@ -1,0 +1,11 @@
+Interfaz básica - Semana 11
+
+La interfaz tendría una sección para crear una nueva causa comunitaria, con un formulario que pida título, descripción y fecha.
+
+También tendría una vista principal con la lista de causas disponibles, para que los usuarios puedan leerlas y conocer qué se está proponiendo en la comunidad.
+
+Cada causa mostraría un botón de "Apoyar" y un contador que indique cuántas personas ya la han apoyado, actualizándose cada vez que alguien presiona el botón.
+
+Antes de crear una causa o apoyar, la plataforma pediría iniciar sesión, para asociar esa acción a un usuario autenticado.
+
+La interfaz debe ser clara, sencilla y fácil de usar, y no debe mostrar información privada de los usuarios (como correos o contraseñas) en ninguna parte visible para el público.

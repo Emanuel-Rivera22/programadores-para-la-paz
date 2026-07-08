@@ -1,0 +1,9 @@
+Autenticación - Semana 11
+
+El login permite identificar a un usuario antes de darle acceso a ciertas funciones de la plataforma, confirmando que realmente es quien dice ser mediante un correo y una contraseña.
+
+Algunas rutas deben estar protegidas porque pueden contener información privada, registros internos de la comunidad o acciones que no deberían estar disponibles para cualquier persona, como crear, editar o eliminar causas.
+
+Sin autenticación, cualquier persona podría modificar información que no le corresponde o acceder a datos que deberían ser confidenciales.
+
+No se deben exponer públicamente contraseñas (ni siquiera cifradas), documentos de identidad, teléfonos, direcciones, tokens de acceso, claves de API ni ningún otro dato sensible de la comunidad. Esta información debe manejarse solo en el backend y nunca debe aparecer en el código publicado en el repositorio.
