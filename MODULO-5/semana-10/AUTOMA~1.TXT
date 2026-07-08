@@ -1,0 +1,19 @@
+Automatización - Semana 10
+Flujo de práctica: n8n + Telegram
+
+Evento: se registra un nuevo reporte de incidencia en el sistema (por ejemplo, un ciudadano envía el formulario y el backend guarda el registro).
+
+Acción: n8n detecta el nuevo registro (webhook o consulta periódica) y envía un mensaje automático a un grupo/canal de Telegram usado por el equipo coordinador.
+
+Mensaje que se enviaría a Telegram:
+"Nuevo reporte recibido. ID de caso: #0001. Revisar en el sistema para dar seguimiento."
+
+Información que no debería enviarse por seguridad:
+* Nombres completos de las personas involucradas.
+* Números de documento de identidad.
+* Direcciones físicas exactas.
+* Números de teléfono.
+* Tokens de Telegram, claves de API o credenciales del sistema.
+* Cualquier dato sensible que permita identificar a alguien sin su consentimiento.
+
+El mensaje solo debe servir como notificación de que hay algo nuevo que revisar, no como medio para exponer datos personales.

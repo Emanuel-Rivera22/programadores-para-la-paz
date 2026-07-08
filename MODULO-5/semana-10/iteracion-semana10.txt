@@ -1,0 +1,19 @@
+Iteración - Semana 10
+
+¿Qué 2 tareas del backlog harías primero?
+
+1. Como ciudadano quiero registrar una incidencia para dejar evidencia del caso.
+2. Como coordinador quiero recibir una alerta en Telegram para revisar un nuevo reporte apenas se registre.
+
+¿Por qué son las más importantes?
+
+Porque son la base de todo el flujo del sistema. Si no existe primero el registro de la incidencia, no hay información que revisar ni seguimiento que hacer. Y si no hay una alerta automática que avise al coordinador, el reporte puede quedar sin atención por horas o días. Estas dos tareas conectan el momento en que un ciudadano reporta algo con el momento en que el equipo se entera y puede actuar, por eso van primero en la iteración.
+
+¿Qué significa para mí que una tarea esté "terminada"?
+
+Definición de terminado (Definition of Done):
+
+* Funciona: la funcionalidad hace lo que la historia de usuario describe, sin errores evidentes.
+* Fue probada: se ejecutó al menos una prueba manual o automática que confirma que el flujo funciona de principio a fin.
+* Quedó registrada en Git: el código y los archivos correspondientes fueron confirmados (commit) y subidos al repositorio.
+* No expone información sensible: se revisó que no queden datos personales, tokens ni claves en el código o en los mensajes enviados.
